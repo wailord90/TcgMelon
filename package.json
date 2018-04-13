@@ -1,0 +1,26 @@
+{
+  "name": "tcgmelon",
+  "version": "1.0.0",
+  "description": "WebCalculator project for PSD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wailord90/TcgMelon.git"
+  },
+  "author": "Caleb Jobe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wailord90/TcgMelon/issues"
+  },
+  "homepage": "https://github.com/wailord90/TcgMelon#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "nodemon": "^1.17.3",
+    "path": "^0.12.7"
+  }
+}
